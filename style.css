@@ -1,0 +1,147 @@
+.login{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.img_people{
+    width: 450px;
+    position: absolute;
+    left: 750px;
+    top: 100px;
+}
+
+.twoclick{
+    color: rgb(97, 212, 97);
+}
+
+.heading{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+
+.text_end{
+    position: absolute;
+    top: 320px;
+    left: 50px;
+
+}
+
+.enter{
+    width: 400px;
+    position: absolute;
+    top: 400px;
+    left: 50px;
+
+}
+
+footer{
+    background-color: rgb(187, 187, 187);
+    position: relative;
+    top: 600px;
+
+}
+
+.current{
+    margin-top: 550px;
+    margin-left: 30px;
+}
+
+.comments{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.comments_con{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.showw{
+    position: absolute;
+    left: 1050px;
+    top: 1125px;
+    color: rgb(49, 238, 49);
+}
+
+.solu{
+    margin-left: 30px;
+    margin-top: 100px;
+}
+
+.ideal{
+    margin-left: 30px;
+    
+}
+
+.sol_photos{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.solution{
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sol_text{
+    display: flex;
+    justify-content: space-around;
+}
+
+.yellow{
+    margin-top: 80px;
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+.designer{
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Ernar{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 80px;
+    margin-left: 30px;
+
+}
+
+.text_ernar{
+    color: rgb(0, 255, 13);
+
+}
+
+
+
+.img_ernar{
+
+    margin-right: 70px;
+    margin-top: 50px;
+}
+
+.des{
+    color: orange;
+}
+
+.same{
+    background-color: rgba(88, 255, 88, 0.123);
+}
+
+.res{
+    margin-left: 30px;
+    margin-top: -80px;
+}
+
+
